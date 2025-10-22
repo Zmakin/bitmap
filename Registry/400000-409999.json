@@ -1,0 +1,42 @@
+[
+  {
+    "block": 402000,
+    "iD": "fcd042d720c78dc0b776f99f9afd88a68c650986f55daa162f1efdcd83f4f798i0",
+    "Bitmap": "T"
+  },
+  {
+    "block": 403000,
+    "iD": "bffc9802806fb241add786454a3c46edcfccc5d5b277f00e04602447a89558a8i0",
+    "Bitmap": "T"
+  },
+  {
+    "block": 403552,
+    "iD": "13b598c71c5d22994eb49f6cd126cfbcd086393804a13d0e954ee87b55515f9di0",
+    "Bitmap": "T"
+  },
+  {
+    "block": 406000,
+    "iD": "48a05ad7478d232b41ae5f2882d2d078c1083aaebb65b34593a031d51168e077i0",
+    "Bitmap": "T"
+  },
+  {
+    "block": 407000,
+    "iD": "38b932cfbbc12b9467e37fcc73ff4de9c3bb1bd9e5a883b81081ae9b8db16386i0",
+    "Bitmap": "T"
+  },
+  {
+    "block": 408000,
+    "iD": "e4010f72a48c085f00e76a8a3c11602b3e295230edc8d0adf9c6d8b9848df6e5i0",
+    "Bitmap": "T"
+  },
+  {
+    "block": 409000,
+    "iD": "7d1184ac3a7ab6ca8f75e296d13241ef9dfe91e5215509d490465627e4ac1e6ci0",
+    "Bitmap": "T"
+  },
+  {
+    "block": 409110,
+    "iD": "f50c84b70d4b1062ed072e2c716bc9e37232fde7752870e1cdff82eb82ba0dcbi0",
+    "Bitmap": "T"
+  }
+]
